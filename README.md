@@ -1,7 +1,9 @@
 ## Olá, eu sou Afonso!
 
 Estudante de Desenvolvimento de sistemas
+
 Iniciando no mund da programação
+
 Contato: afonso09zanon@gmail.com
 <!--
 **Afonso-miquelote-09/Afonso-miquelote-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
